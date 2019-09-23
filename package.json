@@ -1,0 +1,25 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "empty test project with jest",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "babel-jest": "*",
+    "jest": "*"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslan-volkov/formation-tu-26092019.git"
+  },
+  "author": "ruslan volkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslan-volkov/formation-tu-26092019/issues"
+  },
+  "homepage": "https://github.com/ruslan-volkov/formation-tu-26092019#readme"
+}
